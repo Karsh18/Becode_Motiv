@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "kkk",
+  "main": "index.js",
+  "dependencies": {
+    "default": "^0.1.1",
+    "defaults": "^1.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-vue": "^6.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kkk"
+  ],
+  "author": "kkk",
+  "license": "ISC"
+}
